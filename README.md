@@ -26,9 +26,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Create Windows 10 Virtual Machine with 2-4 virtual CPUs
 
 <p>
-<img src="https://imgur.com/a/b4LNctg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RCg40YI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
+<p>
+<img src="https://i.imgur.com/oyRs6pp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
 <h2>Installation Steps</h2>
 
