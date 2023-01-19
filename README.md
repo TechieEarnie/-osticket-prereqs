@@ -22,13 +22,21 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
+- Create a  Resource Group in Azure portal
+- Create Windows 10 Virtual Machine with 2-4 virtual CPUs
+
+<p>
+<img src="https://imgur.com/a/b4LNctg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+
+<h2>Installation Steps</h2>
+
 - Item 1
 - Item 2
 - Item 3
 - Item 4
 - Item 5
-
-<h2>Installation Steps</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
