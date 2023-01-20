@@ -2,25 +2,25 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
+<h1>osTicket - PREREQUISITES AND INSTALLATION</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
+<h2>VIDEO DEMONSTRATION</h2>
 
 - ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
-<h2>Environments and Technologies Used</h2>
+<h2>ENVIRONMENTS AND TECHNOLOGIEIS USED </h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
 
-<h2>Operating Systems Used </h2>
+<h2>OPERATING SYSTEMS USED </h2>
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites (Part 1)</h2>
+<h2>LIST OF PREREQUISITES (Part 1)</h2>
 
 - Create a  Resource Group in Azure portal
 - Create Windows 10 Virtual Machine with 2-4 virtual CPUs
@@ -33,7 +33,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/oyRs6pp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<h2>Installation Steps (Part 2)</h2>
+<h2>INSTALLATION STEPS (Part 2)</h2>
 
 Install and enable IIS in Windows with CGI
 
